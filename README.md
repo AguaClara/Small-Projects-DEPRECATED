@@ -4,4 +4,4 @@ Subteam Leads will each be responsible for completing a small project, this can 
 
 
 
-If any of the projects in the issues interest you or a group of you, please **assign yourself** whenever you would like
+If any of the projects in the issues interest you or a group of you, please **comment your name** whenever you would like
